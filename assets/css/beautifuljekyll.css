@@ -419,6 +419,10 @@ footer .copyright {
   margin-bottom: 0;
   margin-top: 0;
 }
+footer .beian {
+  text-align: center;
+  margin: 0.625rem 0 0;
+}
 footer .theme-by {
   text-align: center;
   margin: 0.625rem 0 0;
